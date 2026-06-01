@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OrbitalWatch API — Spring Boot + MySQL
 
 ## Objetivo
@@ -44,3 +45,6 @@ http://localhost:9000/
 | POST | /api/v2/events | Criar evento |
 | GET | /api/v2/alerts | Listar alertas |
 | POST | /api/v2/alerts | Criar alerta |
+=======
+# GlobalSolution-PrimeiroSemestre
+>>>>>>> 2eae6033102315760556dfbe868bf4f0ee2e229a
